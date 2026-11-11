@@ -1,0 +1,19 @@
+# Maven
+target/
+# IntelliJ IDEA
+.idea/
+*.iml
+# Eclipse
+.classpath
+.project
+.settings/
+# VS Code
+.vscode/
+# Fichiers compilés et journaux
+*.class
+*.log
+# Configuration locale contenant des mots de passe
+db.properties
+# Fichiers système
+Thumbs.db
+.DS_Store
