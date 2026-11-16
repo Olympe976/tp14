@@ -28,3 +28,6 @@ mvn clean javafx:run
 ```
 
 Tester la connexion à la base : exécuter la classe `Test_MySQL` depuis l'IDE, après avoir adapté les identifiants de connexion dans `Test_MySQL.java`.
+
+
+**Auteur** : Mahuna Olympe ATCHATIN | L3-GLSI-A | ESP/UCAD | 2026-2027  
